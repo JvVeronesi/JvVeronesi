@@ -14,7 +14,6 @@
 
   - Gosto muito de computadores, livros e passar tempo com os amigos
 
-  - Estou ingressando agora nessa carreira, e estou à procura da primeira oportunidade de emprego.
 </p>
 
 <!-- Links -->
